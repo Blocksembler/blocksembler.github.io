@@ -1,0 +1,39 @@
+# Python Exam – Introductory Level
+
+## Instructions
+- Answer all three exercises.
+- Write clean, readable code.
+- Add comments where helpful.
+
+---
+
+## Exercise 1 – Basic Input & Calculations (10 points)
+
+Write a Python program that:
+
+1. Asks the user to enter two integers.  
+2. Stores them in the variables `a` and `b`.  
+3. Calculates their **sum**, **difference**, and **product**.  
+4. Prints the results in a clear, formatted way.
+
+---
+
+## Exercise 2 – Conditions (10 points)
+
+Write a program that asks the user for their age and then prints one of the following messages:
+
+- `"You are a child."` if the age is below 13  
+- `"You are a teenager."` if the age is between 13 and 19 (inclusive)  
+- `"You are an adult."` if the age is 20 or above  
+
+---
+
+## Exercise 3 – Lists and Loops (10 points)
+
+Write a program that:
+
+1. Creates a list containing these numbers: `[3, 7, 2, 9, 5]`  
+2. Uses a `for` loop to compute the **sum** of all values.  
+3. Prints the total sum.
+
+---
